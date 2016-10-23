@@ -13,3 +13,4 @@ Det nasjonale pilotprosjektet starter i år, med ulike strategier i de forskjell
 
 Oslos byrådet ønsker å bruke 250 millioner kroner for å heve den digitale kompetansen og innføre nye IKT systemene i alle skolene og barnehagene. Avgjørelsen kommer i desember.
 
+[Les mer om saken her](http://www.aftenposten.no/osloby/Oslo-kommune-skal-lare-niaringer-a-programmere-605953b.html)
