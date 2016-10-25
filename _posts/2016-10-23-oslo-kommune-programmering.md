@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Programmering til alle elevene i Oslo kommune"
-author: "Anna"
 image: "dark01.jpg"
 date:   2016-10-23
 ---
