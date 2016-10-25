@@ -7,7 +7,7 @@ image: "dark01.jpg"
 date:   2016-10-23
 ---
 
-I mange av de vestlige landene har programmering blitt et valgfag for ungdommen i de siste årene. Nå vil det skjer i landet òg.
+I mange av de vestlige landene har programmering blitt et valgfag for ungdommen i de siste årene. Nå vil det skjer her i landet òg.
 
 Det nasjonale pilotprosjektet starter i år, med ulike strategier i de forskjellige kommuner. I Oslo skal alle 4. klassingene få tilbud om kodingkurs på starten av 2017.
 
