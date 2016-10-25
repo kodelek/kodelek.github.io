@@ -1,8 +1,7 @@
 ---
+layout: post
 title:  "Programmering til alle elevene i Oslo kommune"
-subtitle: ""
 author: "Anna"
-avatar: "img/authors/anna.png"
 image: "dark01.jpg"
 date:   2016-10-23
 ---
